@@ -1,0 +1,19 @@
+#class,town
+Knight,Castle
+Cleric,Castle
+Heretic,Inferno
+Demoniac,Inferno
+Ranger,Rampart
+Druid,Rampart
+Beastmaster,Fortress
+Witch,Fortress
+Alchemist,Tower
+Wizard,Tower
+Plainswalker,Conflux
+Elementalist,Conflux
+Overlord,Dungeon
+Warlock,Dungeon
+Barbarian,Stronghold
+Battle Mage,Stronghold
+Death Knight,Necropolis
+Necromancer,Necropolis
