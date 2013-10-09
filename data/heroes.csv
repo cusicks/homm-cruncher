@@ -1,11 +1,24 @@
-#name,race,gender,class,specialty,skill_one,skill_2 
-Edric,Human,Male,Knight,Griffins,Leadership,Armorer
-Lord Haart,Human,Male,Knight,Estates,Leadership,Estates
-Orrin,Human,Male,Knight,Archery,Leadership,Archery
-Sir Christian,Human,Male,Knight,Ballista,Leadership,Tactics
-Sorsha,Human,Female,Knight,Swordsmen,Leadership,Offense
-Sylvia,Human,Female,Knight,Navigation,Leadership,Navigation
-Tyris,Human,Female,Knight,Cavaliers,Leadership,Tactics
-Valeska,Human,Female,Knight,Archers,Leadership,Archery
-Adela,Human,Female,Cleric,Bless,Wisdom,Diplomacy
-Caitlin,Human,Female,Cleric,350 Gold,Wisdom,Intelligence
+name,race,gender,class,specialty,skill_one,skill_one_level,skill_two,skill_two_level
+Edric,Human,Male,Knight,Griffins,Leadership,0,Armorer,0
+Lord Haart,Human,Male,Knight,Estates,Leadership,0,Estates,0
+Orrin,Human,Male,Knight,Archery,Leadership,0,Archery,0
+Sir Christian,Human,Male,Knight,Ballista,Leadership,0,Tactics,0
+Sorsha,Human,Female,Knight,Swordsmen,Leadership,0,Offense,0
+Sylvia,Human,Female,Knight,Navigation,Leadership,0,Navigation,0
+Tyris,Human,Female,Knight,Cavaliers,Leadership,0,Tactics,0
+Valeska,Human,Female,Knight,Archers,Leadership,0,Archery,0
+Adela,Human,Female,Cleric,Bless,Wisdom,0,Diplomacy,0
+Caitlin,Human,Female,Cleric,350 Gold,Wisdom,0,Intelligence,0
+Cuthbert,Human,Male,Cleric,Weakness,Wisdom,0,Estates,0
+Ingham,Human,Male,Cleric,Monks,Wisdom,0,Mysticism,0
+Loynis,Human,Male,Cleric,Prayer,Wisdom,0,Learning,0
+Rion,Human,Male,Cleric,First Aid,Wisdom,0,First Aid,0
+Sanya,Human,Female,Cleric,Eagle Eye,Wisdom,0,Eagle Eye,0
+Fafner,Genie,Male,Alchemist,Nagas,Scholar,0,Resistance,0
+Iona,Genie,Female,Alchemist,Genies,Scholar,0,Intelligence,0
+Josephine,Human,Female,Alchemist,Golems,Mysticism,0,Sorcery,0
+Neela,Genie,Female,Alchemist,Armorer,Scholar,0,Armorer,0
+Piquedram,Human,Male,Alchemist,Gargoyles,Mysticism,0,Scouting,0
+Rissa,Human,Female,Alchemist,Mercury,Mysticism,0,Offense,0
+Thane,Genie,Male,Alchemist,Genies,Scholar,2,,
+
